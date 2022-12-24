@@ -1,0 +1,66 @@
+!SESSION 2022-12-23 21:01:50.178 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-23 21:02:46.379
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-23 21:02:46.507
+!MESSAGE Log4j initialized with config file D:\LearningMaterial\Mirco-Processor\Lab4\mProcessor-Lab4\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-23 21:03:05.462
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-12-23 21:08:03.547
+!MESSAGE Indexed '1852238-Lab4' (17 sources, 78 headers) in 6.08 sec: 3,631 declarations; 13,054 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-12-23 21:08:35.760
+!MESSAGE Indexed 'Lab 4' (22 sources, 64 headers) in 4.61 sec: 7,617 declarations; 42,833 references; 20 unresolved inclusions; 937 syntax errors; 2,815 unresolved names (5.3%)
+!SESSION 2022-12-24 19:31:55.404 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-24 19:32:22.374
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-24 19:32:22.600
+!MESSAGE Log4j initialized with config file D:\LearningMaterial\Mirco-Processor\Lab4\mProcessor-Lab4\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-24 19:32:43.721
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-12-24 22:17:54.927 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-24 22:18:05.916
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-24 22:18:06.113
+!MESSAGE Log4j initialized with config file D:\LearningMaterial\Mirco-Processor\Lab4\mProcessor-Lab4\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-24 22:18:26.396
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-12-24 22:26:53.072 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-24 22:27:02.275
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-24 22:27:02.361
+!MESSAGE Log4j initialized with config file D:\LearningMaterial\Mirco-Processor\Lab4\mProcessor-Lab4\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-24 22:27:19.841
+!MESSAGE Started RMI Server, listening on port 41337
